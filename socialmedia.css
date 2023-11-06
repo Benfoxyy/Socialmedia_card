@@ -1,0 +1,41 @@
+body{
+    background: lightgray;
+}
+.container{
+    box-sizing: border-box;
+    background-color: white;
+    width: 500px;
+    height: 400px;
+    margin:100px auto;
+    border-radius: 10px;
+    box-shadow: 0 0 10px gray;
+    text-align: center;
+    font-family: sans-serif;
+}
+.profile{
+    width: 150px;
+    margin: 30px 0px 10px 0px;
+    border-radius: 50% ;
+    border: 3px solid gray;
+}
+.title{
+    font-size: 40px;
+    width: 200px;
+    margin: auto;
+    padding-bottom:5px ;
+    color: rgb(86, 86, 86);
+    border-bottom: 5px solid gray;
+}
+.description{
+    font-size: 20px;
+    margin:20px auto;
+    color:rgb(86, 86, 86);
+}
+.icons{
+    height: 55px;
+    background-color: rgb(176, 175, 175);
+}
+.icons img{
+    width: 45px;
+    margin: 5px 15px;
+}
