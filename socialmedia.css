@@ -38,4 +38,5 @@ body{
 .icons img{
     width: 45px;
     margin: 5px 15px;
+    cursor: pointer;
 }
